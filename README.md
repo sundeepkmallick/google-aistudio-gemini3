@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1KncU_aaYEVYkuzTRx8Io0WJP0nqV6DQu
 
+Deployed App can be seen here: https://suncharge-361618184528.us-west1.run.app
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
