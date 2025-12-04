@@ -1,0 +1,7 @@
+{
+  "name": "SunCharge",
+  "description": "An electric vehicle charging station finder designed with a mobile-first experience. Locates nearby chargers using Google Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
